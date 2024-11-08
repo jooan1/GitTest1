@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello world!  KIMMINHYUCK 3H45M PUSH
+	Hello world!  KIMMINHYUCK 3H45M PUSH marster_1 test
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
